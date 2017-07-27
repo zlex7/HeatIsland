@@ -1,6 +1,5 @@
 # HeatIsland
-WebApps final project
-This is the app
+An android application to track the location of heat islands within Austin. The environmental division of the austin city government approached us to write this app so that they could better plan how to handle the rapid growth of these hot spots.
 
 
 ## Team Members

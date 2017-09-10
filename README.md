@@ -3,8 +3,8 @@ An android application to track the location of heat islands within Austin. The 
 
 
 ## Team Members
-* Alex C
 * Alex W
+* Alex C
 
 Check out this link for more info: https://docs.google.com/document/d/1sT4YnKq1dN0VJGByuhKBEJhsBkeM3o5pnW55dQ7wrBI/edit
 

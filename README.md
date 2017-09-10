@@ -1,5 +1,5 @@
 # HeatIsland
-An android application to track the location of heat islands within Austin. The environmental division of the austin city government approached us to write this app so that they could better plan how to handle the rapid growth of these hot spots.
+An android application to track the location of heat islands within Austin. The environmental division of the austin city government approached us to write this app so that they could better plan how to handle the rapid growth of hot spots, or "heat islands" around Austin. Future plans include using the gathered data to organize remediation efforts in affected parts of Austin.
 
 
 ## Team Members
